@@ -1,6 +1,19 @@
 import org.junit.jupiter.api.Assertions.*
 import kotlin.test.Test
 
+/*
+Diferents asserts de JUnit per kotlin:
+assertFalse(valor)
+assertTrue(valor)
+assertNotEquals(valorEsperat, valorCalculat)
+assertEquals(valorEsperat, valorCalculat)
+assertArrayEquals(valorEsperat, valorCalculat)
+assertNull(valor)
+assertNotNull(valor)
+assertSame()
+assert(valor) { missatge }
+*/
+
 class FuncionsRobotKtTest {
 
     /**
